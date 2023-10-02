@@ -1,7 +1,4 @@
-Sure, here's a sample README file for a GitHub Machine Learning project for Used Car Price Prediction using a RandomForest Regressor with Flask deployment:
 
-markdown
-Copy code
 # Used Car Price Prediction
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/used-car-price-prediction)
@@ -24,11 +21,11 @@ This project is an end-to-end Machine Learning application for predicting used c
 
 ## Demo
 
-[Link to Live Demo](https://your-app-url.com)
+[Link to Live Demo]([https://your-app-url.com](https://screenapp.io/app/#/library/64e085cd02bc08233a83c474/default/57c418d3-45dd-4a8e-b8e6-2fc7bf6414d7))
 
 [Link to Demo Video](https://www.youtube.com/watch?v=yourvideo)
 
-![Demo Screenshot](/screenshots/demo.png)
+[Demo Screenshot](/screenshots/demo.png)
 
 ## Technologies Used
 
@@ -38,8 +35,7 @@ This project is an end-to-end Machine Learning application for predicting used c
 - Pandas
 - NumPy
 - HTML/CSS
-- JavaScript
-- Bootstrap
+  
 
 ## Installation
 
